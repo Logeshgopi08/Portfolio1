@@ -190,7 +190,7 @@ export const navLinks = [
     {
       id: 1,
       name: 'BlueEyes Solution',
-      pos: 'junior Flutter and React Developer',
+      pos: 'junior Flutter  Developer',
       duration: '2023 - Present',
       title: "Work closely with designers to translate wireframes into visually appealing, functional Application interfaces",
       icon: 'https://media.licdn.com/dms/image/v2/C560BAQFiZVI5mcLsdg/company-logo_200_200/company-logo_200_200/0/1677673918367?e=1741824000&v=beta&t=NV6zpeIvKYft8fxOwEktJ_zP0t8tllvTLtX7bjbeyWA',
